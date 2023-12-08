@@ -27,12 +27,12 @@ Feel free to explore and enhance your 3D printing journey with these firmwares.
 Before delving into the specifics, familiarize yourself with the following glossary:
 
 1. [The History of 3D Printing](history.md)
-2. [Digital Light Processing (DLP)](printertypes/dlp.md)
-3. [Direct Metal Laser Sintering (DMLS)](printertypes/dmls.md)
-4. [Electron Beam Melting (EBM)](printertypes/ebm.md)
-5. [Multi Jet Fusion (MJF)](printertypes/mjf.md)
-6. [Selective Laser Sintering (SLS)](printertypes/sls.md)
-7. [Fused Deposition Modeling (FDM)](printertypes/fdm.md)
+2. [Digital Light Processing (DLP)](printertype/dlp.md)
+3. [Direct Metal Laser Sintering (DMLS)](printertype/dmls.md)
+4. [Electron Beam Melting (EBM)](printertype/ebm.md)
+5. [Multi Jet Fusion (MJF)](printertype/mjf.md)
+6. [Selective Laser Sintering (SLS)](printertype/sls.md)
+7. [Fused Deposition Modeling (FDM)](printertype/fdm.md)
 8. [Reprap Firmware](firmwares/reprap.md)
 9. [Marlin Firmware](firmwares/marlin.md)
 10. [Klipper Firmware](firmwares/klipper.md)
