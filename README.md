@@ -44,5 +44,5 @@ Before delving into the specifics, familiarize yourself with the following gloss
 
 Feel free to explore the repository and elevate your understanding of 3D printing!
 
-
+</br>
 -created by Ozzy O
