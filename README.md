@@ -43,4 +43,6 @@ Before delving into the specifics, familiarize yourself with the following gloss
 14. [Materials Use and Guide for FDM](materials/FDMmaterialguide.md)
 
 Feel free to explore the repository and elevate your understanding of 3D printing!
+
+
 -created by Ozzy O
