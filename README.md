@@ -10,7 +10,8 @@ This repository is designed for the average person who wants to gain knowledge a
 
 For personal printing, we strongly recommend Fused Deposition Modeling (FDM) technology. It's user-friendly, versatile, and ideal for beginners. If you're feeling adventurous, you may explore Stereolithography (SLA), although the content here will primarily offer a summary due to its more advanced nature.
 
-Remember, 3D printing is not just a technology—it's cool, and knowing about it makes you cool too!
+Remember, 3D printing is not just a technology—it's cool, and knowing about it makes you cool too! Don't you want to be cool? Being cool is super cool.
+**caution: some printers print very very hot so keep safe and stay cool.
 
 ## Installation Guides
 
