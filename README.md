@@ -1,6 +1,6 @@
 # 3D Printing: A Guide to be an Expert on the Basics
 
-Welcome to the 3D Printing Repository! This repository serves as a comprehensive guide for individuals looking to explore the world of 3D printing. Here, you'll find information on different types of printers, along with links and details about the popular firmwares that power them today.
+Welcome to the 3D Printing Repository! This repository serves as a comprehensive guide for individuals looking to explore the world of 3D printing. Here, you'll find information on different types of printers, along with links and details about the popular firmwares that power them today. 3d printers are how we can use a digital process and software to control hardware to create a tangible item. An amazing process from soft to hard.
 
 ## Introduction
 
